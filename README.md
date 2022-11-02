@@ -1,6 +1,10 @@
 # Needy-Links
 ## DSA
 ### https://wingkwong.github.io/leetcode-the-hard-way/
+## SYSTEM DESIGN
+### https://www.karanpratapsingh.com/courses/system-design
+### https://github.com/donnemartin/system-design-primer
+### https://github.com/InterviewReady/system-design-resources/
 ## WEB
 ### https://github.com/ruppysuppy/SmartsApp
 ### https://github.com/ruppysuppy/Pizza-Man
