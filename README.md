@@ -1,5 +1,6 @@
 # Needy-Links
 ## DSA
+### https://github.com/lzl124631x/LeetCode
 ### https://wingkwong.github.io/leetcode-the-hard-way/
 ## SYSTEM DESIGN
 ### https://systemdesign.one/system-design-interview-cheatsheet/
