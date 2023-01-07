@@ -5,6 +5,7 @@
 ## SYSTEM DESIGN
 ### https://systemdesign.one/system-design-interview-cheatsheet/
 ### https://www.karanpratapsingh.com/courses/system-design
+### https://liuzhenglaichn.gitbook.io/system-design/
 ### https://github.com/donnemartin/system-design-primer
 ### https://github.com/InterviewReady/system-design-resources/
 ## DEV
