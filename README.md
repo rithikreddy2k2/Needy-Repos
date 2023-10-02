@@ -9,6 +9,7 @@
 ### https://github.com/donnemartin/system-design-primer
 ### https://github.com/InterviewReady/system-design-resources/
 ## DEV
+### https://github.com/codewithsadee/vcard-personal-portfolio
 ### https://github.com/ruppysuppy/SmartsApp
 ### https://github.com/ruppysuppy/Pizza-Man
 ### https://github.com/Nidhishpp/Yoga-Guru
