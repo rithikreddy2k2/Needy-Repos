@@ -48,7 +48,7 @@
 ### https://leetcode.com/discuss/interview-question/system-design/566057/Machine-Learning-System-Design-%3A-A-framework-for-the-interview-day
 ### https://leetcode.com/discuss/interview-question/system-design/547669/Algorithm-you-should-know-before-system-design
 ### https://leetcode.com/discuss/interview-question/system-design/691010/System-Design-for-Mobile-App-Developers
-### =============================================================================================================================================
+### =========================================================================
 ## DEV
 ### https://github.com/codewithsadee/vcard-personal-portfolio
 ### https://github.com/ruppysuppy/SmartsApp
